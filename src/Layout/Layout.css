@@ -1,0 +1,9 @@
+.appConatiner {
+    display: flex;
+}
+
+.childContainer {
+    padding-left: 60px;
+    margin-top: 10px;
+    overflow: auto;
+}

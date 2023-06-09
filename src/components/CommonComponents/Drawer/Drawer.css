@@ -1,0 +1,24 @@
+.mainContainer {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.openDrawer {
+    margin-left: 210px;
+}
+
+.closeDrawer {
+    margin-left: 0px;
+}
+
+.toggleButton {
+    position: fixed;
+    top: 240px;
+    z-index: 9999;
+    border-radius: 50px;
+}
+
+.drawer {
+    width: 251px;
+}
